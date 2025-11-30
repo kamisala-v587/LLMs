@@ -26,3 +26,6 @@ unset http_proxy && unset https_proxy
 
 ### github
 https://github.com/kamisala-v587/LLMs.git
+
+### Hugging Face
+export HF_ENDPOINT=https://hf-mirror.com
